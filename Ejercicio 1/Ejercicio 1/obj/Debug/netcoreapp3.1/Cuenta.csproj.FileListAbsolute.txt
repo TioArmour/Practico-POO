@@ -1,0 +1,12 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.deps.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.runtimeconfig.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.runtimeconfig.dev.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Cuenta.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.AssemblyInfoInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.AssemblyInfo.cs
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Cuenta.genruntimeconfig.cache

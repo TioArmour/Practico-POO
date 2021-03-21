@@ -1,0 +1,13 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.deps.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfo.cs
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.genruntimeconfig.cache

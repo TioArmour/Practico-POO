@@ -1,0 +1,13 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.AssemblyInfoInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.AssemblyInfo.cs
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.deps.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.runtimeconfig.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.runtimeconfig.dev.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\bin\Debug\netcoreapp3.1\Complejos.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 5\Ejercicio 5\obj\Debug\netcoreapp3.1\Complejos.genruntimeconfig.cache

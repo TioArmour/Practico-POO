@@ -1,0 +1,13 @@
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.exe
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.deps.json
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.runtimeconfig.json
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.runtimeconfig.dev.json
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.dll
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\bin\Debug\netcoreapp3.1\Fraccion.pdb
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.csprojAssemblyReference.cache
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.AssemblyInfoInputs.cache
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.AssemblyInfo.cs
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.csproj.CoreCompileInputs.cache
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.dll
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.pdb
+C:\Users\omarc\source\repos\Proyecto 4\Proyecto 4\obj\Debug\netcoreapp3.1\Fraccion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.deps.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.runtimeconfig.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.runtimeconfig.dev.json
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Fecha.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.AssemblyInfoInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.AssemblyInfo.cs
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\Practico POO\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Fecha.genruntimeconfig.cache
